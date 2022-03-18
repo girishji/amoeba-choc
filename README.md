@@ -1,2 +1,2 @@
 # kailh-choc-socket
-Single key pcb for Kailh Choc switch
+Single switch pcb for Kailh Choc keyboard switch
