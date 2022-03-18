@@ -1,0 +1,32 @@
+Author: Girish Palya <girishji@gmail.com>
+Date:   Fri, 18 Mar 2022 23:02:24 +0100
+
+Add layout and schematic designs
+
+
+ M .gitignore
+A  fp-lib-table
+A  kailh-choc-socket.kicad_pcb
+A  kailh-choc-socket.kicad_prl
+A  kailh-choc-socket.kicad_pro
+A  kailh-choc-socket.kicad_sch
+
+commit 811960c588debdc12bd191277964e7c65f950404
+Author: gp <girishji@gmail.com>
+Date:   Fri Mar 18 15:39:23 2022 +0100
+
+    Update README.md
+
+commit 142dad899b8e66797fb31c46ba4f60d49ac1216c
+Author: gp <girishji@gmail.com>
+Date:   Fri Mar 18 15:38:42 2022 +0100
+
+    Update README.md
+    
+    Type
+
+commit 3aaceb45c13696a4da7d012a431b589e73b794f8
+Author: gp <girishji@gmail.com>
+Date:   Fri Mar 18 15:37:09 2022 +0100
+
+    Initial commit
