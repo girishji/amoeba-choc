@@ -1,18 +1,59 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 15:55:06 +0100
+Date:   Wed, 23 Mar 2022 16:10:30 +0100
 
-Add new footprints for mounting holes
+Renamed project files
 
 
-A  Giri-Kailh-Choc-Library.pretty/D_SOD-123.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/MountingHole_1.2mm_M1.kicad_mod
-D  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
-M  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
-M  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
-M  kailh-choc-socket.kicad_pcb
-M  kailh-choc-socket.kicad_prl
-M  kailh-choc-socket.kicad_sch
+M  .gitignore
+M  amoeba-choc.kicad_pcb
+M  amoeba-choc.kicad_prl
+M  amoeba-choc.kicad_pro
+
+commit bee5bf9e4f6720bd220fe017a78a3535ff9ca3cb
+Author: gp <girishji@gmail.com>
+Date:   Wed Mar 23 16:02:11 2022 +0100
+
+    Rename kailh-choc-socket.kicad_sch to amoeba-choc.kicad_sch
+
+commit 3edd081bdd534923a9cc18a6a94d410c9830087a
+Author: gp <girishji@gmail.com>
+Date:   Wed Mar 23 16:01:36 2022 +0100
+
+    Rename kailh-choc-socket.kicad_pro to amoeba-choc.kicad_pro
+
+commit e96ddea713ba08122ca38d5b9a0dddaaae9fa31e
+Author: gp <girishji@gmail.com>
+Date:   Wed Mar 23 16:00:59 2022 +0100
+
+    Rename kailh-choc-socket.kicad_prl to amoeba-choc.kicad_prl
+
+commit cd2bc1f135709fab7dde4d7ab051a4b153bacc9c
+Author: gp <girishji@gmail.com>
+Date:   Wed Mar 23 16:00:26 2022 +0100
+
+    Rename kailh-choc-socket.kicad_pcb to amoeba-choc.kicad_pcb
+
+commit db7e62a00adb506440a8a2d0152f8f3097bcf0a9
+Author: gp <girishji@gmail.com>
+Date:   Wed Mar 23 15:57:39 2022 +0100
+
+    Update README.md
+
+commit 76d3719d13a9f6df183459f2ce3ab4e58f7e488a
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 15:55:06 2022 +0100
+
+    Add new footprints for mounting holes
+    
+    A  Giri-Kailh-Choc-Library.pretty/D_SOD-123.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/MountingHole_1.2mm_M1.kicad_mod
+    D  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
+    M  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
+    M  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
+    M  kailh-choc-socket.kicad_pcb
+    M  kailh-choc-socket.kicad_prl
+    M  kailh-choc-socket.kicad_sch
 
 commit 4e31b261f616ad33371333f8069deed04752ec61
 Author: Girish Palya <girishji@gmail.com>
