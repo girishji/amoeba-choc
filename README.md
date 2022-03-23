@@ -1,4 +1,4 @@
-# kailh-choc-socket
+# amoeba-choc
 Single switch pcb for Kailh Choc keyboard switch (KICad project).
 
 If you are interested in using, here is some info:
