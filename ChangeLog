@@ -1,19 +1,27 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 22:54:01 +0100
+Date:   Wed, 23 Mar 2022 22:58:26 +0100
 
-Added 2u footprint and cleanedup traces
+updated image file
 
 
-A  Giri-Kailh-Choc-Library.pretty/Kailh-PG1350-2u-stabilizer-refined.kicad_mod
-M  amoeba-choc.kicad_pcb
-M  amoeba-choc.kicad_prl
-M  amoeba-choc.kicad_sch
-A  socket-2u/.gitignore
-A  socket-2u/fp-lib-table
-A  socket-2u/socket-2u.kicad_pcb
-A  socket-2u/socket-2u.kicad_prl
-A  socket-2u/socket-2u.kicad_pro
-A  socket-2u/socket-2u.kicad_sch
+M  pcbv.png
+
+commit 6a36609115a8228ad127d3d0c9c75839ecc13548
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 22:54:01 2022 +0100
+
+    Added 2u footprint and cleanedup traces
+    
+    A  Giri-Kailh-Choc-Library.pretty/Kailh-PG1350-2u-stabilizer-refined.kicad_mod
+    M  amoeba-choc.kicad_pcb
+    M  amoeba-choc.kicad_prl
+    M  amoeba-choc.kicad_sch
+    A  socket-2u/.gitignore
+    A  socket-2u/fp-lib-table
+    A  socket-2u/socket-2u.kicad_pcb
+    A  socket-2u/socket-2u.kicad_prl
+    A  socket-2u/socket-2u.kicad_pro
+    A  socket-2u/socket-2u.kicad_sch
 
 commit ddb1c9f9c272a3bd6be6a975d2a0d9f4b9ff2f20
 Author: Girish Palya <girishji@gmail.com>
