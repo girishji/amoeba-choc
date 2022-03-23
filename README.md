@@ -18,3 +18,5 @@ If you are interested in using, here is some info:
       using the datasheet.
     - You can use RBG leds if you are into that. Just create two additional
       pads for soldering. You need two IS31FL3731s.
+
+  ![image](pcbv.png)

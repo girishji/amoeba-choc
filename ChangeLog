@@ -1,16 +1,25 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 10:09:22 +0100
+Date:   Wed, 23 Mar 2022 10:16:22 +0100
 
-Added layer details
+Add image
 
 
-M  .gitignore
 M  README.md
-M  fp-lib-table
-M  kailh-choc-socket.kicad_pcb
-M  kailh-choc-socket.kicad_prl
-M  kailh-choc-socket.kicad_pro
-M  kailh-choc-socket.kicad_sch
+A  pcbv.png
+
+commit 75c50aaa0397b50453402923f79202fa30c444bb
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 10:09:22 2022 +0100
+
+    Added layer details
+    
+    M  .gitignore
+    M  README.md
+    M  fp-lib-table
+    M  kailh-choc-socket.kicad_pcb
+    M  kailh-choc-socket.kicad_prl
+    M  kailh-choc-socket.kicad_pro
+    M  kailh-choc-socket.kicad_sch
 
 commit d8d35bb33ab5f36e7e8d1d2e6444b632dd356b15
 Author: Girish Palya <girishji@gmail.com>
