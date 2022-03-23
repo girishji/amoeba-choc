@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "",
+    "active_layer": 44,
+    "active_layer_preset": "All Layers",
     "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -32,6 +32,7 @@
       2,
       3,
       4,
+      5,
       8,
       9,
       10,
@@ -41,6 +42,8 @@
       14,
       15,
       16,
+      17,
+      18,
       19,
       20,
       21,
@@ -60,10 +63,10 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
-    "filename": "amoeba-choc.kicad_prl",
+    "filename": "socket-2u.kicad_prl",
     "version": 3
   },
   "project": {
