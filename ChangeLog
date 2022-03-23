@@ -1,15 +1,36 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Fri, 18 Mar 2022 23:02:24 +0100
+Date:   Wed, 23 Mar 2022 10:06:05 +0100
 
-Add layout and schematic designs
+Added LED and connector pads
 
+Added footprint library, LED cutout, connectors and layer details.
 
  M .gitignore
-A  fp-lib-table
-A  kailh-choc-socket.kicad_pcb
-A  kailh-choc-socket.kicad_prl
-A  kailh-choc-socket.kicad_pro
-A  kailh-choc-socket.kicad_sch
+A  Giri-Kailh-Choc-Library.pretty/Kailh-PG1350-2u-stabilizer.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SMD_6028_White_LED.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_dummy.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+ M README.md
+ M fp-lib-table
+ M kailh-choc-socket.kicad_pcb
+ M kailh-choc-socket.kicad_prl
+ M kailh-choc-socket.kicad_pro
+ M kailh-choc-socket.kicad_sch
+
+commit 1b44d6435efb290ed8b8dc227c65c4e83dec3d62
+Author: Girish Palya <girishji@gmail.com>
+Date:   Fri Mar 18 23:02:24 2022 +0100
+
+    Add layout and schematic designs
+    
+     M .gitignore
+    A  fp-lib-table
+    A  kailh-choc-socket.kicad_pcb
+    A  kailh-choc-socket.kicad_prl
+    A  kailh-choc-socket.kicad_pro
+    A  kailh-choc-socket.kicad_sch
 
 commit 811960c588debdc12bd191277964e7c65f950404
 Author: gp <girishji@gmail.com>
