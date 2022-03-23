@@ -1,11 +1,27 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 10:16:22 +0100
+Date:   Wed, 23 Mar 2022 15:55:06 +0100
 
-Add image
+Add new footprints for mounting holes
 
 
-M  README.md
-A  pcbv.png
+A  Giri-Kailh-Choc-Library.pretty/D_SOD-123.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/MountingHole_1.2mm_M1.kicad_mod
+D  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
+M  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
+M  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x2.5mm_Drill0.5mm.kicad_mod
+M  kailh-choc-socket.kicad_pcb
+M  kailh-choc-socket.kicad_prl
+M  kailh-choc-socket.kicad_sch
+
+commit 4e31b261f616ad33371333f8069deed04752ec61
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 10:16:22 2022 +0100
+
+    Add image
+    
+    M  README.md
+    A  pcbv.png
 
 commit 75c50aaa0397b50453402923f79202fa30c444bb
 Author: Girish Palya <girishji@gmail.com>
