@@ -1,23 +1,38 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 10:06:05 +0100
+Date:   Wed, 23 Mar 2022 10:09:22 +0100
 
-Added LED and connector pads
+Added layer details
 
-Added footprint library, LED cutout, connectors and layer details.
 
- M .gitignore
-A  Giri-Kailh-Choc-Library.pretty/Kailh-PG1350-2u-stabilizer.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/SMD_6028_White_LED.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_dummy.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
-A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
- M README.md
- M fp-lib-table
- M kailh-choc-socket.kicad_pcb
- M kailh-choc-socket.kicad_prl
- M kailh-choc-socket.kicad_pro
- M kailh-choc-socket.kicad_sch
+M  .gitignore
+M  README.md
+M  fp-lib-table
+M  kailh-choc-socket.kicad_pcb
+M  kailh-choc-socket.kicad_prl
+M  kailh-choc-socket.kicad_pro
+M  kailh-choc-socket.kicad_sch
+
+commit d8d35bb33ab5f36e7e8d1d2e6444b632dd356b15
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 10:06:05 2022 +0100
+
+    Added LED and connector pads
+    
+    Added footprint library, LED cutout, connectors and layer details.
+    
+     M .gitignore
+    A  Giri-Kailh-Choc-Library.pretty/Kailh-PG1350-2u-stabilizer.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/SMD_6028_White_LED.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_dummy.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_V1_plated_girish2.kicad_mod
+    A  Giri-Kailh-Choc-Library.pretty/TestPoint_THTPad_1.0x1.5mm_Drill0.5mm.kicad_mod
+     M README.md
+     M fp-lib-table
+     M kailh-choc-socket.kicad_pcb
+     M kailh-choc-socket.kicad_prl
+     M kailh-choc-socket.kicad_pro
+     M kailh-choc-socket.kicad_sch
 
 commit 1b44d6435efb290ed8b8dc227c65c4e83dec3d62
 Author: Girish Palya <girishji@gmail.com>
