@@ -1,10 +1,18 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Wed, 23 Mar 2022 22:58:26 +0100
+Date:   Thu, 24 Mar 2022 07:25:26 +0100
 
-updated image file
+Update readme file
 
 
-M  pcbv.png
+M  README.md
+
+commit 6813e53a87b7472a2ae71dfb488595b169028d8f
+Author: Girish Palya <girishji@gmail.com>
+Date:   Wed Mar 23 22:58:26 2022 +0100
+
+    updated image file
+    
+    M  pcbv.png
 
 commit 6a36609115a8228ad127d3d0c9c75839ecc13548
 Author: Girish Palya <girishji@gmail.com>
