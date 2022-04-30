@@ -19,14 +19,19 @@ If you are interested in using, here is some info:
     - You can use RGB leds if you are into that. Just create two additional
       pads for soldering. You need two IS31FL3731s.
     - Do NOT use SK6812 mini-E. They are power hungry and not suitable for
-      per-key LED. They are similar to sk6812 vs ws2812b and they
+      per-key LED. They are similar to sk6812 or ws2812b and they
       all have an IC inside them that does PWM. Each can draw upto 20mA. They
       draw 1mA even when turned off. You'll easily reach 500mA (or 900mA) limit
       of USB 2.0 (3.0) port. Laptop battery drains quickly. OTOH IS31FL3731
-      draws 2mA when LEDs are turned off and each LED get 2 or 3mA.
+      draws 2mA (and you only need one) when LEDs are turned off and each LED get 2 or 3mA.
  - Note on soldering: You can use 'magnet wire' and eliminate the need to strip
-   insulation. Get .3-.4mm single-insulation type and you can melt off the
+   insulation. Get .2-.3mm single-insulation type and you can melt off the
    insulation at the tip using soldering iron and a dab of solder (there are
    some youtube videos).
 
   ![image](pcbv.png)
+
+  Here are some images of keyboard built using this pcb.
+
+  ![image](https://i.imgur.com/7HjXotx.jpg)
+  ![image](https://i.imgur.com/o7rhdtJ.jpg)

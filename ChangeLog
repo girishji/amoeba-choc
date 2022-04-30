@@ -1,10 +1,20 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Thu, 24 Mar 2022 07:25:26 +0100
+Date:   Sat, 30 Apr 2022 14:44:37 +0200
 
 Update readme file
 
 
 M  README.md
+M  amoeba-choc.kicad_prl
+M  amoeba-choc.kicad_pro
+
+commit 6bbcd29e9bf3efaca5bac0f059c9a759fbba8566
+Author: Girish Palya <girishji@gmail.com>
+Date:   Thu Mar 24 07:25:26 2022 +0100
+
+    Update readme file
+    
+    M  README.md
 
 commit 6813e53a87b7472a2ae71dfb488595b169028d8f
 Author: Girish Palya <girishji@gmail.com>
