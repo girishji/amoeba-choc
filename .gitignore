@@ -3,6 +3,9 @@
 
 amoeba-choc-backups
 
+*.zip
+Gerbers/
+
 .DS_Store
 
 # Temporary files

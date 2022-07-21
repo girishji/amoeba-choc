@@ -1,5 +1,5 @@
 # amoeba-choc
-Single switch pcb for Kailh Choc keyboard switch (KICad project).
+Single switch pcb for Kailh Choc keyboard switch (KiCad project).
 
 If you are interested in using, here is some info:
 - Use 1.2mm thickness pcb (suitable for Choc 1350 hotswap sockets)

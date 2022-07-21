@@ -1,12 +1,34 @@
 Author: Girish Palya <girishji@gmail.com>
-Date:   Sat, 30 Apr 2022 14:44:37 +0200
-
-Update readme file
+Date:   Thu, 21 Jul 2022 12:20:26 +0200
 
 
+
+
+M  .gitignore
+A  "Giri-Kailh-Choc-Library.pretty/Adafruit IS31FL3731 Breakout.kicad_dru"
+A  "Giri-Kailh-Choc-Library.pretty/Adafruit IS31FL3731 Breakout.kicad_pcb"
+A  "Giri-Kailh-Choc-Library.pretty/Adafruit IS31FL3731 Breakout.kicad_prl"
+A  "Giri-Kailh-Choc-Library.pretty/Adafruit IS31FL3731 Breakout.kicad_pro"
+A  Giri-Kailh-Choc-Library.pretty/AdafruitCharliplex.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/AdafruitCharliplex2.kicad_mod
+M  Giri-Kailh-Choc-Library.pretty/MountingHole_1.2mm_M1.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Hotswap_Kailh_Choc_noLed.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/SW_Kailh_Choc_Cutout.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/TestPoint_Plated_Hole_D1.0mm.kicad_mod
+A  Giri-Kailh-Choc-Library.pretty/TestPoint_Plated_Hole_D1.2mm.kicad_mod
 M  README.md
-M  amoeba-choc.kicad_prl
-M  amoeba-choc.kicad_pro
+A  kailh-choc.kicad_sym
+
+commit 4c9646b3695dd19a8de2a181c43b334e0b108e58
+Author: Girish Palya <girishji@gmail.com>
+Date:   Sat Apr 30 14:44:37 2022 +0200
+
+    Update readme file
+    
+    M  README.md
+    M  amoeba-choc.kicad_prl
+    M  amoeba-choc.kicad_pro
 
 commit 6bbcd29e9bf3efaca5bac0f059c9a759fbba8566
 Author: Girish Palya <girishji@gmail.com>
